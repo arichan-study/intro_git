@@ -1,2 +1,3 @@
 最初の入力
 git rmを学んだ。
+git status
